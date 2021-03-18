@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// compile with vscode 2019 -> AT&T assembly
 int main() {
 
     int a = 0;
