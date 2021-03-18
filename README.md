@@ -1,3 +1,3 @@
 # ASM
-assembly code
-AT&T
+assembly code 
+visual studio (intel) / vscode(AT&T)
