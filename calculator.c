@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> // compile in visual studio 2019 -> intel asm
 #include <conio.h>
 #define pause getch()
 
